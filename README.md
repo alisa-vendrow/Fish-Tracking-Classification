@@ -55,7 +55,7 @@ The script outputs:
 * Second most likely family prediction
 * Second confidence score
 
-Results are saved to "fish_tracking_classification_results.csv".
+Results are saved to `fish_tracking_classification_results.csv`.
 
 ### Run
 
@@ -95,11 +95,7 @@ The original workflow used separate scripts:
 * `fish_tracker.py`
 * `infer.py`
 
-Results were saved to:
-
-```text
-inference_results.csv
-```
+Results were saved to `inference_results.csv`.
 
 Example command:
 
