@@ -55,11 +55,7 @@ The script outputs:
 * Second most likely family prediction
 * Second confidence score
 
-Results are saved to:
-
-```text
-fish_tracking_classification_results.csv
-```
+Results are saved to "fish_tracking_classification_results.csv".
 
 ### Run
 
@@ -126,4 +122,4 @@ infer.py --image_path fish_outputs/fish_1.jpg --model_path weights/beit_base_pat
 ## Author
 
 Alisa Vendrow
-
+Email: alisavendrow@gmail.com
