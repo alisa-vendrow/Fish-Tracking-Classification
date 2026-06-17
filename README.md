@@ -118,4 +118,3 @@ infer.py --image_path fish_outputs/fish_1.jpg --model_path weights/beit_base_pat
 ## Author
 
 Alisa Vendrow
-Email: alisavendrow@gmail.com
